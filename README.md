@@ -960,4 +960,4 @@ client.on("webhookUpdate", (channel) => {
 
 ## Credits
 
-- [DragoLuca](https://github.com/KentaOp)
+- [KentaOp](https://github.com/KentaOp)
